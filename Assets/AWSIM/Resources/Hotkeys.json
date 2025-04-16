@@ -1,0 +1,167 @@
+{
+  "keyBinds": [
+    {
+      "name": "Vehicle Controller",
+      "hotkeys": [
+        {
+          "key": "W / Up Arrow",
+          "description": "Forward"
+        },
+        {
+          "key": "S / Down Arrow",
+          "description": "Brake & Reverse"
+        },
+        {
+          "key": "A / Left Arrow",
+          "description": "Steer Left"
+        },
+        {
+          "key": "D / Right Arrow",
+          "description": "Steer Right"
+        },
+        {
+          "key": "Space",
+          "description": "Handbrake"
+        },
+        {
+          "key": "Left Shift / Left Ctrl",
+          "description": "Change Gear +/-"
+        },
+        {
+          "key": "R",
+          "description": "Reverse Gear"
+        },
+        {
+          "key": "N",
+          "description": "Neutral Gear"
+        },
+        {
+          "key": "P",
+          "description": "Park Gear"
+        },
+        {
+          "key": "Left Alt",
+          "description": "Change Gear Mode"
+        }
+      ]
+    },
+    {
+      "name": "VPPVehicleSignalHandler.cs",
+      "hotkeys": [
+        {
+          "key": "1",
+          "description": "Signal: Left"
+        },
+        {
+          "key": "2",
+          "description": "Signal: Right"
+        },
+        {
+          "key": "3",
+          "description": "Signal: Hazard"
+        },
+        {
+          "key": "4",
+          "description": "Signal: Off"
+        }
+      ]
+    },
+    {
+      "name": "Camera Controller",
+      "hotkeys": [
+        {
+          "key": "C",
+          "description": "Toggle camera mode"
+        },
+        {
+          "key": "Mouse Drag",
+          "description": "Camera rotation (in certain modes)"
+        },
+        {
+          "key": "Mouse Wheel +/-",
+          "description": "Camera zoom (in certain modes)"
+        },
+        {
+          "key": "F1",
+          "description": "Camera mode: Driver View"
+        },
+        {
+          "key": "F2",
+          "description": "Camera mode: Smooth Follow"
+        },
+        {
+          "key": "F3",
+          "description": "Camera Mode: Orbit"
+        },
+        {
+          "key": "F4",
+          "description": "Camera Mode: Look At"
+        }
+      ]
+    },
+    {
+      "name": "HotkeyHandler.cs",
+      "hotkeys": [
+        {
+          "key": "Esc",
+          "description": "Toggle side bar"
+        },
+        {
+          "key": "LeftCtrl + R",
+          "description": "Reset ego vehicle"
+        },
+        {
+          "key": "LeftCtrl + T",
+          "description": "Toggle traffic visibility"
+        }
+      ]
+    },
+    {
+      "name": "BirdEyeView.cs",
+      "hotkeys": [
+        {
+          "key": "B",
+          "description": "Toggle BEV camera"
+        },
+        {
+          "key": "WASD / Arrow Keys",
+          "description": "Pan"
+        },
+        {
+          "key": "Hold Mouse3 + Drag",
+          "description": "Pan"
+        },
+        {
+          "key": "Mouse Wheel +/-",
+          "description": "Zoom"
+        },
+        {
+          "key": "Space",
+          "description": "Snap to ego vehicle"
+        },
+        {
+          "key": "LeftCtrl + Space",
+          "description": "Follow ego vehicle on/off"
+        }
+      ]
+    },
+    {
+      "name": "Graphy Asset",
+      "hotkeys": [
+        {
+          "key": "F3",
+          "description": "Toggle Graphy visualizer"
+        }
+      ]
+    },
+    {
+      "name": "Loader.cs",
+      "hotkeys": [
+        {
+          "key": "F12",
+          "description": "Go back to the load scene / Reload"
+        }
+      ]
+    }
+  ]
+}
